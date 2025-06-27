@@ -1,0 +1,2 @@
+# A-Hybrid-AI-and-Computer-Vision-Framework-for-Improved-Drought-Prediction-in-Pakistan-
+This project aims to develop a vision-based drought prediction system that uses spectral and temporal information from satellites to monitor vegetation stress and soil conditions. By focusing solely on computer vision techniques, this approach reduces dependency on multi-modal fusion systems and external environmental sensors.
